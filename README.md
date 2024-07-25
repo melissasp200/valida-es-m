@@ -141,7 +141,7 @@ input#cpf{
     border: none;
 }
 
-## EXPLICAÇÃO JS
+### EXPLICAÇÃO JS
 
   A validação foi feita dígito por dígito usando o laço de iteração e repetição "for" para compor um array para cada dígito. Também foi usado "if else" para a confirmação da soma no código.
 
