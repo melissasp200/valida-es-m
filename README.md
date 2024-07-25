@@ -3,7 +3,8 @@
 ## VALIDAÇÃO DE CPF 
 
   Códigos:
-     - HTML:
+  
+   - HTML:
        
        <!DOCTYPE html>
 <html>
@@ -36,6 +37,7 @@
 
 
  - JS:
+   
      // VALIDAÇÃO DE CPF DIRETO NO JAVASCRIPT
  
 // Adicionando escutador ao formulário
