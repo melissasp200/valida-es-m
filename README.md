@@ -33,7 +33,9 @@
       
 </html>
 
-   - JS:
+
+
+ - JS:
      // VALIDAÇÃO DE CPF DIRETO NO JAVASCRIPT
  
 // Adicionando escutador ao formulário
@@ -138,6 +140,10 @@ input#cpf{
     border-radius: 8px;
     border: none;
 }
+
+##EXPLICAÇÃO JS
+
+  A validação foi feita dígito por dígito usando o laço de iteração e repetição "for" para compor um array para cada dígito. Também foi usado "if else" para a confirmação da soma no código.
 
 
 
