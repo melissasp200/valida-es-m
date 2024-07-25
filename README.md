@@ -149,6 +149,8 @@ input#cpf{
 
   ## VALIDAÇÃO DE EMAIL
 
+  Códigos:
+  
   - HTML:
       <DOCTYPE html>
 <html>
@@ -190,7 +192,7 @@ function checarEmail(){
 
 ### EXPLICAÇÃO JS
 
-
+   Foi usado "if else" para a validação. Se o email informado não tiver '@' e '.com', a tela de alert aparece com a seguinte mensagem "por favor, informe um email válido" pois o email não será válido. Caso o email for válido a tela de alert aparece "email informado com sucesso".
 
 
  
