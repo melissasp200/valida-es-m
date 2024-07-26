@@ -4,17 +4,19 @@
 
  Códigos:
   
- -HTML:  
+ - HTML:  
 
  ![](img/cpfHtml.png)
 
- -JS:  
+ - JS:  
  ![](img/cpfJS.png)
+
  ![](img/cpfJS2.png)
 
 
- -CSS:  
+ - CSS:  
  ![](img/cpfCSS.png)
+ 
  ![](img/cpfCSS2.png)
   
 ### EXPLICAÇÃO JS
