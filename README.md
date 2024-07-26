@@ -10,26 +10,27 @@
 
  -JS:  
  ![](img/cpfJS.png)
+ ![](img/cpfJS2.png)
 
 
-
- -CSS:
-
+ -CSS:  
+ ![](img/cpfCSS.png)
+ ![](img/cpfCSS2.png)
   
 ### EXPLICAÇÃO JS
 
   A validação foi feita dígito por dígito usando o laço de iteração e repetição "for" para compor um array para cada dígito. Também foi usado "if else" para a confirmação da soma no código.
-  
+
 
 ## VALIDAÇÃO DE EMAIL
 
   Códigos:
   
  - HTML:  
-      
+ ![](img/emailHTML.png)     
 
  - JS:  
-
+ ![](img/emailJS.png)
     
 
 ### EXPLICAÇÃO JS
