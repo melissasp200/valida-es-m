@@ -1,4 +1,4 @@
-# PROJETOS COM VALIDACOES
+# PROJETOS COM VALIDAÇÕES
 
 ## VALIDAÇÃO DE CPF 
 
@@ -16,7 +16,7 @@
 
  - CSS:  
  ![](img/cpfCSS.png)
- 
+
  ![](img/cpfCSS2.png)
   
 ### EXPLICAÇÃO JS
